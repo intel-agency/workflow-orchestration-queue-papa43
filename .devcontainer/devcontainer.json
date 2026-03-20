@@ -1,5 +1,5 @@
 {
-  "name": "workflow-orchestration-queue-papa43",
+  "name": "workflow-orchestration-queue-papa43-devcontainer",
   "image": "ghcr.io/intel-agency/workflow-orchestration-queue-papa43/devcontainer:main-latest",
   "containerEnv": {
     "DOTNET_ROOT": "/usr/share/dotnet"
